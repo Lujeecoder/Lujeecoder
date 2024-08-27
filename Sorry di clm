@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'm Sorry di Thari Clm</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffe6e6;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff4d4d;
+            color: white;
+            padding: 20px;
+            font-size: 2em;
+            text-shadow: 1px 1px 2px #333;
+        }
+        section {
+            margin: 50px;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #ff1a1a;
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        I'm Sorry di Thari Clm
+    </header>
+
+    <section>
+        <h1>I'm Sorry</h1>
+        <p>di Thari Clm</p>
+    </section>
+
+    <footer>
+        &copy; 2024 - Created with Love
+    </footer>
+
+</body>
+</html
